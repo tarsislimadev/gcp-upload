@@ -1,1 +1,7 @@
-# gcp-upload
+# GCP Upload
+
+
+
+## license
+
+[MIT](./LICENSE)
